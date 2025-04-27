@@ -1,0 +1,4 @@
+<script>alert(origin)</script>
+"><svg onload=alert(origin)>
+<img src=1 onerror=alert(origin)>
+'-alert(origin)-'
